@@ -12,7 +12,7 @@ Further information: https://philippvk.github.io
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/phiologe?style=social)]([1])
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Philipp%20van%20Kempen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philipp-van-kempen/)]([2])
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([3])
+[![GitHub PhilippvK](https://img.shields.io/github/followers/PhilippvK?label=follow&style=social)]([3])
 
 [1]: https://twitter.com/phiologe
 [2]: https://www.linkedin.com/in/philipp-van-kempen/
