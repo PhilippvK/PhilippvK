@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 [![PhilippvK's GitHub stats](https://github-stats-extended.vercel.app/api?username=PhilippvK)](https://github.com/stats-organization/github-stats-extended)
 
-Credits: https://github.com/anuraghazra/github-readme-stats
+Credits: https://github.com/stats-organization/github-stats
 
